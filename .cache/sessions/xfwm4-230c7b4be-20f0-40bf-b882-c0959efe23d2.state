@@ -1,0 +1,10 @@
+[CLIENT] 0x40001c
+  [CLIENT_LEADER] 0x400001
+  [RES_NAME] xfce4-session
+  [RES_CLASS] Xfce4-session
+  [WM_NAME] xfce4-session
+  [GEOMETRY] (365,222,294,323)
+  [GEOMETRY-MAXIMIZED] (365,222,294,323)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
